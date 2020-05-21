@@ -1,0 +1,62 @@
+[    {
+      "id": 1,
+      "question": "Which planet in our solar system is closest to the sun?",
+      "choices": ["Yellow", "Blue", "White"],
+      "answer": "Mercury"
+    },
+    {
+      "id": 2,
+      "question":
+        "Which actor played Richard III in the 1995 British film drama of the same title?",
+      "choices": ["Ian McKellen", "Partrick Stewart", "Elijah Wood"],
+      "answer": "Ian McKellen"
+    },
+    {
+      "id": 3,
+      "question":
+        "Which Marvel superhero, also known as Steve Rogers, made his first appearance in March 1941?",
+        "choices": ["Liverpool", "Southend United", "Wolverhampton"],
+        "answer": "Captain America"
+    },
+    {
+      "id": 4,
+      "question": "Which English football club play at Roots Hall?",
+      "choices": ["Liverpool", "Southend United", "Wolverhampton"],
+      "answer": "Southend United"
+    },
+    {
+        "id": 5,
+        "question": "Apple?",
+        "choices": ["Yellow", "Blue", "White"],
+        "answer": "Red"
+      },{
+        "id": 6,
+        "question": "Bird?",
+        "choices": ["cow", "Dog", "Elephant"],
+        "answer": "Peacock"
+      },
+      {
+        "id": 7,
+        "question": "What is the HTTP Code 200 Indicates?",
+        "choices": ["Error", "Completed", "Warning"],
+        "answer": "Success"
+      },
+      {
+        "id": 8,
+        "question": "What is the HTTP Code Related to Page Not Found?",
+        "choices": ["104", "403", "402"],
+        "answer": "404"
+      },
+      {
+        "id": 9,
+        "question": "What is the HTTP Code Related to Internal Server Error?",
+        "choices": ["504", "501", "403"],
+        "answer": "500"
+      },
+      {
+        "id": 10,
+        "question": "What is WSDL Stands for? ",
+        "choices": ["Webservice Document Language", "Webservice Dictionary Language", "Webservice Definition Language"],
+        "answer": " Webservice Description Language"
+      }
+]
